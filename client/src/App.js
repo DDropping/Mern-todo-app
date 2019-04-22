@@ -14,7 +14,7 @@ class App extends Component {
         <Navbar />
         <Route path='/' exact component={TodosList} />
         <Route path='/edit/:id' component={EditTodo} />
-        <Route path='/create' component={CreateTodo} />
+        <Route path='/todo' component={CreateTodo} />
       </Router>
     );
   }

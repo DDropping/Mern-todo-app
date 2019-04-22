@@ -23,16 +23,19 @@ export default class Navbar extends Component {
             </button>
             <div class='collapse navbar-collapse' id='navbarNav'>
               <ul class='navbar-nav'>
+                {/*  David's Link */}
                 <li class='nav-item'>
-                  <a class='nav-link' href='#'>
+                  <a class='nav-link' href='/todo'>
                     Todo
                   </a>
                 </li>
+                {/*  Tacho's Link */}
                 <li class='nav-item'>
                   <a class='nav-link' href='#'>
                     Features
                   </a>
                 </li>
+                {/*  Jarren's Link */}
                 <li class='nav-item'>
                   <a class='nav-link' href='#'>
                     Pricing
