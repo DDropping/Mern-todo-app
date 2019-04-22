@@ -29,18 +29,6 @@ export default class Navbar extends Component {
                     Todo
                   </a>
                 </li>
-                {/*  Tacho's Link */}
-                <li class='nav-item'>
-                  <a class='nav-link' href='#'>
-                    Features
-                  </a>
-                </li>
-                {/*  Jarren's Link */}
-                <li class='nav-item'>
-                  <a class='nav-link' href='#'>
-                    Pricing
-                  </a>
-                </li>
               </ul>
             </div>
           </div>

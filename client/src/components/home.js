@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 
-export default class TodosList extends Component {
+export default class Home extends Component {
   render() {
     return (
       <div>
-        <p>Welcome to Todos List Component!</p>
+        <p>Home Screen</p>
       </div>
     );
   }
